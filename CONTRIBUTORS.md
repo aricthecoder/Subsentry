@@ -39,3 +39,9 @@ This project exists because of your time, effort, and curiosity.
 - **Name:** Harshvardhan Bansal
 - **GitHub:** https://github.com/HARSH4885-svg
 - **About:** I am highlyinterested in chess and CP.
+- **About:** I pretend I know Java, Spring Boot, and React. The compiler, debugger, and bugs tell a different story.
+
+- **Name:** Gaurav Prajapati
+- **GitHub:** https://github.com/gaurav9479
+- **About:** I am gaurav B.Tech Materials Engineering MNNIT Allahabad i am trying to learn open source contribuion in OPENCODE-25
+

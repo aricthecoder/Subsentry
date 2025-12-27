@@ -121,3 +121,7 @@ This project exists because of your time, effort, and curiosity.
 - **Name:** Yuvaraj Ragothaman
 - **GitHub:** https://github.com/LevelSilence
 - **About:** Sophomore @IIITA
+
+- **Name:** Lavay Garg
+- **GitHub:** https://github.com/lavaygarg
+- **About:** Fresher @IIITA
